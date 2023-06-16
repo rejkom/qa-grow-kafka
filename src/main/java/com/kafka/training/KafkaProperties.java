@@ -27,7 +27,7 @@ public static final String TOPIC = "qa-grow";
     private static Properties commonProperties(){
         Properties props = new Properties();
         props.put("bootstrap.servers", "192.168.122.68:9092");
-        props.put("group.id", "qa-grow-jena");
+        props.put("group.id", "qa-grow-michal");
         return props;
     }
 

@@ -1,0 +1,16 @@
+{
+  "records": [
+    {
+      "key": "jsmith",
+      "value": "alarm clock"
+    },
+    {
+      "key": "htanaka",
+      "value": "batteries"
+    },
+    {
+      "key": "awalther",
+      "value": "bookshelves"
+    }
+  ]
+}
